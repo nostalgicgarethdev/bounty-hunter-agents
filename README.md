@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="public/logo.png" width="160" alt="Bounty Hunter Agents logo">
+  <img src="public/logo-v2.png" width="160" alt="Bounty Hunter Agents logo">
 </p>
 
 **New logo:** A magnifying glass with a crosshair/target and bounty coin inside — representing the agent *searching for* and *claiming* bounties. (Completely redesigned from the previous robot/agent-head version.)
