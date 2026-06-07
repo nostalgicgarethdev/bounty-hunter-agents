@@ -1,33 +1,26 @@
 <svg width="120" height="120" viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background circle - new indigo accent -->
-  <circle cx="60" cy="60" r="55" fill="#6366f1"/>
-  <circle cx="60" cy="60" r="48" fill="#09090b"/>
+  <!-- Subtle outer glow ring -->
+  <circle cx="52" cy="48" r="42" stroke="#6366f1" stroke-width="3" fill="none" opacity="0.25"/>
   
-  <!-- Modern hunter agent head / helmet -->
-  <rect x="30" y="30" width="60" height="44" rx="10" fill="#6366f1"/>
+  <!-- Main magnifying glass lens (search/hunt) -->
+  <circle cx="52" cy="48" r="28" fill="#09090b" stroke="#6366f1" stroke-width="6"/>
   
-  <!-- Antenna with new age signal -->
-  <circle cx="60" cy="22" r="5" fill="#6366f1"/>
-  <line x1="60" y1="27" x2="60" y2="33" stroke="#6366f1" stroke-width="3"/>
-  <!-- Signal waves -->
-  <path d="M48 18 Q60 10 72 18" stroke="#a5b4fc" stroke-width="2" fill="none" opacity="0.8"/>
-  <path d="M44 14 Q60 4 76 14" stroke="#a5b4fc" stroke-width="1.5" fill="none" opacity="0.6"/>
+  <!-- Inner dark lens area -->
+  <circle cx="52" cy="48" r="19" fill="#0f0f12"/>
   
-  <!-- Visor / scanning eyes -->
-  <rect x="38" y="42" width="16" height="12" rx="3" fill="#09090b"/>
-  <rect x="66" y="42" width="16" height="12" rx="3" fill="#09090b"/>
-  <!-- Eye highlights / reticle -->
-  <circle cx="46" cy="48" r="4" fill="#6366f1"/>
-  <circle cx="74" cy="48" r="4" fill="#6366f1"/>
-  <!-- Hunter reticle on right eye -->
-  <line x1="70" y1="46" x2="78" y2="50" stroke="#09090b" stroke-width="1.2"/>
-  <line x1="70" y1="50" x2="78" y2="46" stroke="#09090b" stroke-width="1.2"/>
-  <circle cx="74" cy="48" r="1.5" fill="#09090b"/>
+  <!-- Hunting crosshair / target inside lens -->
+  <line x1="35" y1="48" x2="69" y2="48" stroke="#a5b4fc" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="52" y1="33" x2="52" y2="63" stroke="#a5b4fc" stroke-width="2.5" stroke-linecap="round"/>
   
-  <!-- Bounty coin / reward -->
-  <circle cx="60" cy="70" r="10" fill="#67f6d1" stroke="#09090b" stroke-width="2"/>
-  <text x="60" y="74" text-anchor="middle" fill="#0f172a" font-family="system-ui, sans-serif" font-size="11" font-weight="bold">$</text>
+  <!-- Center bounty coin being "found" -->
+  <circle cx="52" cy="48" r="9" fill="#67f6d1" stroke="#09090b" stroke-width="2"/>
+  <text x="52" y="52" text-anchor="middle" fill="#0f172a" font-family="system-ui, sans-serif" font-size="10" font-weight="bold">$</text>
   
-  <!-- Label -->
-  <text x="60" y="98" text-anchor="middle" fill="#6366f1" font-family="system-ui, sans-serif" font-size="16" font-weight="700">BH</text>
+  <!-- Magnifying glass handle (claim direction) -->
+  <line x1="76" y1="70" x2="95" y2="89" stroke="#6366f1" stroke-width="8" stroke-linecap="round"/>
+  <!-- Handle accent ring -->
+  <circle cx="90" cy="85" r="4" fill="#a5b4fc"/>
+  
+  <!-- BH monogram label -->
+  <text x="60" y="102" text-anchor="middle" fill="#6366f1" font-family="system-ui, sans-serif" font-size="17" font-weight="700">BH</text>
 </svg>
