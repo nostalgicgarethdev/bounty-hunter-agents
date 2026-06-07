@@ -44,7 +44,7 @@ function App() {
           </div>
 
           <a 
-            href="https://pump.fun/" 
+            href="https://pump.fun/FfnM3eTAaYawRJzsQpaQPvvXi6kcsWcVJViDCNsXpump" 
             target="_blank" 
             rel="noopener noreferrer"
             className="flex items-center gap-2 px-5 py-2 rounded-2xl bg-[#a5b4fc] text-[#1e1b4b] font-medium text-sm hover:bg-white transition-all"
@@ -74,7 +74,7 @@ function App() {
             <span className="text-[#71717a]">Token CA</span>
             <code 
               onClick={(e) => {
-                navigator.clipboard.writeText('TBD');
+                navigator.clipboard.writeText('FfnM3eTAaYawRJzsQpaQPvvXi6kcsWcVJViDCNsXpump');
                 const el = e.currentTarget;
                 const orig = el.textContent;
                 el.textContent = 'Copied!';
@@ -82,10 +82,10 @@ function App() {
               }}
               className="font-mono text-[#6366f1] cursor-pointer hover:underline select-all break-all"
             >
-              TBD
+              FfnM3eTAaYawRJzsQpaQPvvXi6kcsWcVJViDCNsXpump
             </code>
             <a 
-              href="https://pump.fun/" 
+              href="https://pump.fun/FfnM3eTAaYawRJzsQpaQPvvXi6kcsWcVJViDCNsXpump" 
               target="_blank" 
               rel="noopener noreferrer"
               className="text-[#6366f1] hover:text-white"
@@ -93,11 +93,11 @@ function App() {
               <ExternalLink className="w-3.5 h-3.5" />
             </a>
           </div>
-          <div className="text-[10px] text-[#71717a] mt-1.5">launching via Genesis on pump.fun</div>
+          <div className="text-[10px] text-[#71717a] mt-1.5">on pump.fun</div>
         </div>
 
         <a 
-          href="https://pump.fun/" 
+          href="https://pump.fun/FfnM3eTAaYawRJzsQpaQPvvXi6kcsWcVJViDCNsXpump" 
           target="_blank"
           rel="noopener noreferrer"
           className="inline-flex items-center justify-center gap-2 bg-[#a5b4fc] text-[#1e1b4b] font-medium px-8 py-3.5 rounded-2xl text-base hover:bg-white transition"
@@ -137,7 +137,7 @@ function App() {
       {/* Simple CTA */}
       <div className="border-t border-[#27272a] py-12 bg-[#111113] text-center">
         <a 
-          href="https://pump.fun/" 
+          href="https://pump.fun/FfnM3eTAaYawRJzsQpaQPvvXi6kcsWcVJViDCNsXpump" 
           target="_blank"
           rel="noopener noreferrer"
           className="inline-flex items-center justify-center gap-2 bg-[#a5b4fc] text-[#1e1b4b] font-medium px-8 py-3.5 rounded-2xl text-base hover:bg-white transition"

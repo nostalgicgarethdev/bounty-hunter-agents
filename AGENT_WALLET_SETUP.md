@@ -3,7 +3,7 @@
 **Public Address:**
 `Fnt4656kjRwk4umnHcsu1tbNSZ6HPvvsebAz1evtJQNe`
 
-**Token:** TBD (e.g. $HUNT or your chosen ticker) — launching on pump.fun via Genesis
+**Token CA:** `FfnM3eTAaYawRJzsQpaQPvvXi6kcsWcVJViDCNsXpump` ([pump.fun](https://pump.fun/FfnM3eTAaYawRJzsQpaQPvvXi6kcsWcVJViDCNsXpump)) — $HUNT on pump.fun via Genesis
 
 This address is referenced in:
 - `src/App.tsx` (live balance fetch + display)

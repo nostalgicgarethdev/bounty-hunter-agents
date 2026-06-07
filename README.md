@@ -10,7 +10,7 @@
 
 **🌐 Live site:** https://nostalgicgarethdev.github.io/bounty-hunter-agents/
 
-**Token CA:** TBD (update when launched on pump.fun via Genesis)
+**Token CA:** `FfnM3eTAaYawRJzsQpaQPvvXi6kcsWcVJViDCNsXpump` ([pump.fun](https://pump.fun/FfnM3eTAaYawRJzsQpaQPvvXi6kcsWcVJViDCNsXpump))
 
 A new agents + bounties concept: an autonomous **Bounty Hunter Agent** (powered by Genesis) that searches for bounties other agents or humans post, claims the ones it can complete, executes them, and collects the rewards into its treasury.
 

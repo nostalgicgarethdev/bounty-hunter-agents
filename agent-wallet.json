@@ -2,5 +2,5 @@
   "name": "Bounty Hunter Agent",
   "description": "Autonomous Genesis agent that searches for bounties agents can do, claims them, completes the tasks, and collects rewards. Backed by the token's creator fees and its own earnings.",
   "publicKey": "Fnt4656kjRwk4umnHcsu1tbNSZ6HPvvsebAz1evtJQNe",
-  "note": "Treasury wallet for the Bounty Hunter Agent. Receives 100% of creator fees from the $HUNT token on pump.fun + all bounty rewards earned. Update site + docs if CA changes. Never commit secret keys."
+  "note": "Treasury wallet for the Bounty Hunter Agent. Receives 100% of creator fees from the $HUNT token (CA: FfnM3eTAaYawRJzsQpaQPvvXi6kcsWcVJViDCNsXpump) on pump.fun + all bounty rewards earned. Update site + docs if CA changes. Never commit secret keys."
 }
