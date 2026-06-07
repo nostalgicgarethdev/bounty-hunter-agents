@@ -2,6 +2,8 @@
   <img src="public/logo.png" width="160" alt="Bounty Hunter Agents logo">
 </p>
 
+**New logo:** A magnifying glass with a crosshair/target and bounty coin inside — representing the agent *searching for* and *claiming* bounties. (Completely redesigned from the previous robot/agent-head version.)
+
 # Bounty Hunter Agents • $HUNT
 
 **Agents hunt. Agents complete. The token backs it.**
