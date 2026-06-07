@@ -47,7 +47,7 @@ function App() {
             href="https://pump.fun/" 
             target="_blank" 
             rel="noopener noreferrer"
-            className="flex items-center gap-2 px-5 py-2 rounded-2xl bg-[#5eead4] text-[#134e4b] font-medium text-sm hover:bg-white transition-all"
+            className="flex items-center gap-2 px-5 py-2 rounded-2xl bg-[#a5b4fc] text-[#1e1b4b] font-medium text-sm hover:bg-white transition-all"
           >
             Buy $HUNT on pump.fun <ExternalLink className="w-3.5 h-3.5" />
           </a>
@@ -80,7 +80,7 @@ function App() {
                 el.textContent = 'Copied!';
                 setTimeout(() => { if (el) el.textContent = orig; }, 1500);
               }}
-              className="font-mono text-[#14b8a6] cursor-pointer hover:underline select-all break-all"
+              className="font-mono text-[#6366f1] cursor-pointer hover:underline select-all break-all"
             >
               TBD
             </code>
@@ -88,7 +88,7 @@ function App() {
               href="https://pump.fun/" 
               target="_blank" 
               rel="noopener noreferrer"
-              className="text-[#14b8a6] hover:text-white"
+              className="text-[#6366f1] hover:text-white"
             >
               <ExternalLink className="w-3.5 h-3.5" />
             </a>
@@ -100,7 +100,7 @@ function App() {
           href="https://pump.fun/" 
           target="_blank"
           rel="noopener noreferrer"
-          className="inline-flex items-center justify-center gap-2 bg-[#5eead4] text-[#134e4b] font-medium px-8 py-3.5 rounded-2xl text-base hover:bg-white transition"
+          className="inline-flex items-center justify-center gap-2 bg-[#a5b4fc] text-[#1e1b4b] font-medium px-8 py-3.5 rounded-2xl text-base hover:bg-white transition"
         >
           Buy $HUNT on pump.fun <ArrowRight className="w-4 h-4" />
         </a>
@@ -109,7 +109,7 @@ function App() {
       {/* Bounties / Hunts created by the agent */}
       <div id="bounties" className="max-w-4xl mx-auto px-6 py-12 border-t border-[#27272a]">
         <div className="text-center mb-8">
-          <div className="text-[#14b8a6] text-xs tracking-[3px] mb-2">BOUNTIES</div>
+          <div className="text-[#6366f1] text-xs tracking-[3px] mb-2">BOUNTIES</div>
           <h2 className="text-white text-3xl tracking-tight">Hunted &amp; Completed by the Agent</h2>
         </div>
 
@@ -121,7 +121,7 @@ function App() {
       {/* Agent Wallet - fees + rewards in the wallet */}
       <div id="wallet" className="max-w-4xl mx-auto px-6 py-12 border-t border-[#27272a]">
         <div className="text-center mb-8">
-          <div className="text-[#14b8a6] text-xs tracking-[3px] mb-2">AGENT WALLET</div>
+          <div className="text-[#6366f1] text-xs tracking-[3px] mb-2">AGENT WALLET</div>
           <h2 className="text-white text-3xl tracking-tight">Fees + Rewards in the Treasury</h2>
           <div className="mt-2 font-mono text-xs text-[#a1a1aa] break-all">
             {HUNTER_AGENT_WALLET}
@@ -140,14 +140,14 @@ function App() {
           href="https://pump.fun/" 
           target="_blank"
           rel="noopener noreferrer"
-          className="inline-flex items-center justify-center gap-2 bg-[#5eead4] text-[#134e4b] font-medium px-8 py-3.5 rounded-2xl text-base hover:bg-white transition"
+          className="inline-flex items-center justify-center gap-2 bg-[#a5b4fc] text-[#1e1b4b] font-medium px-8 py-3.5 rounded-2xl text-base hover:bg-white transition"
         >
           Buy $HUNT on pump.fun <ArrowRight className="w-4 h-4" />
         </a>
       </div>
 
       <footer className="py-8 text-center text-xs text-[#71717a] border-t border-[#27272a]">
-        From the <a href="https://nostalgicgarethdev.github.io/genesis" target="_blank" rel="noopener noreferrer" className="text-[#14b8a6]">Genesis</a> agent launchpad.
+        From the <a href="https://nostalgicgarethdev.github.io/genesis" target="_blank" rel="noopener noreferrer" className="text-[#6366f1]">Genesis</a> agent launchpad.
       </footer>
     </div>
   )
